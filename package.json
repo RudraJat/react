@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "I am learning reactJs",
+  "main": "react.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudraJat/React-fundas.git"
+  },
+  "keywords": [
+    "react-fundas"
+  ],
+  "author": "\"rudra\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudraJat/React-fundas/issues"
+  },
+  "homepage": "https://github.com/RudraJat/React-fundas#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0"  
+  }
+}
